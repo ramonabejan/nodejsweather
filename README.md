@@ -1,2 +1,2 @@
 # nodejsweather
-A command line apli to get the temperature
+A command line apli in node.js to get the temperature
